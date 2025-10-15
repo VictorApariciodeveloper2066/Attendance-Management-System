@@ -100,10 +100,8 @@ attendance-system/
 - pip package manager
 
 ### Dependencies
-Create a `requirements.txt` file:
-```txt
+
 pandas>=1.3.0
-```
 
 Install with:
 ```bash
@@ -132,16 +130,7 @@ John Doe,Presente,2023-12-01 14:30:22,2023-12-01 14:30:22.123456
 <img width="591" height="721" alt="image" src="https://github.com/user-attachments/assets/5b9bb67b-88ec-497c-8466-b78846bb5040" />
 
 ```
-🖼️ [Application Main Window]
-- Clean interface with blue theme
-- Scrollable list of names
-- Colorful action buttons
 
-🖼️ [Success Message]
-- Export confirmation
-- Attendance summary
-- File location details
-```
 
 ## 🐛 Troubleshooting
 
